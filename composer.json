@@ -1,6 +1,6 @@
 {
-    "name": "smalot/pdfparser",
-    "description": "Pdf parser library. Can read and extract information from pdf file.",
+    "name": "fabiomezzo/pdfparser",
+    "description": "Pdf parser library. Can read and extract information from pdf file. Forked from smalot/pdfparser",
     "keywords": ["PDF", "text", "parser", "parse", "extract"],
     "type": "library",
     "license": "LGPL-3.0",
